@@ -16,7 +16,7 @@ function App() {
     },
     {
       url: 'https://5.imimg.com/data5/KC/PC/MY-38629861/dummy-chronograph-watch-500x500.jpg',
-      name: 'LOREM Watch Black',
+      name: 'Sonata Watch Black',
       category: 'Watches',
       seller: 'Watch Ltd Siyana',
       price: 2599
@@ -25,7 +25,7 @@ function App() {
       url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq39iB_cO6uhZ59vubrqVuYTJQH-4Qa0hU9g&usqp=CAU',
       name: 'AMZ Laptop 8GB RAM',
       category: 'Laptops',
-      seller: 'Delhi Laptops',
+      seller: 'HP Laptops',
       price: 50000
     },
     {
