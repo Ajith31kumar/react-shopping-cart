@@ -6,9 +6,9 @@ function ProductList({ product,addToCart }) {
             {
                 product.map((productItem, productIndex) => {
                     return (
-                        <div style={{ width: '33%' }}>
+                        <div style={{ width: '28%' }}>
                             <div className='product-item'>
-                                <img src={productItem.url} width="100%" />
+                                <img src={productItem.url} width="80%" />
                                 <p>{productItem.name} | {productItem.category} </p>
                                 <p> {productItem.seller} </p>
                                 <p> Rs. {productItem.price} /-</p>

@@ -1,14 +1,19 @@
 .flex {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around; 
 }
 
 .shopping-card {
-  justify-content: space-between;
-  background-color: #61dafb;
+  justify-content: space-around;
+  background-color: #b8df0b;
   padding: 20px 30px;
 }
 
 .product-item {
-  padding: 20px;
+  margin: 10px;
+  border: 1px solid blue;
+  padding: 10px;
+  justify-content: space-evenly;
+  background-color: aqua;
 }

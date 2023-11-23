@@ -8,7 +8,7 @@ function App() {
 
   const [product, setProduct] = useState([
     {
-      url: 'https://rukminim1.flixcart.com/image/200/200/l51d30w0/shoe/z/w/c/10-mrj1914-10-aadi-white-black-red-original-imagft9k9hydnfjp.jpeg?q=70',
+      url: 'https://rukminim1.flixcart.com/image/200/100/l51d30w0/shoe/z/w/c/10-mrj1914-10-aadi-white-black-red-original-imagft9k9hydnfjp.jpeg?q=70' ,
       name: 'TRQ White Shoes',
       category: 'Shoes',
       seller: 'AMZ Seller Ghz',
